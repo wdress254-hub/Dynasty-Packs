@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: NBA Dynasty Packs: Era Builder Simulator",
+  "description": "A deep basketball roster builder and season simulation game with card packs, dynamic player chemistry, upgrades, and a multi-era player database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
